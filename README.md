@@ -15,3 +15,6 @@ https://github.com/user-attachments/assets/6f2f3c72-620b-4607-be67-d56c363b73dc
 
 
 URL = https://www.youtube.com/watch?v=2_kWj6ZwnRs
+
+# homework 3
+![homework3](https://github.com/user-attachments/assets/c9d3e6af-8144-40c8-b330-8cb074176fe7)
