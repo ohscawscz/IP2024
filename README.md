@@ -24,3 +24,6 @@ URL = https://www.youtube.com/watch?v=2_kWj6ZwnRs
 # homework coin
 https://github.com/user-attachments/assets/e51875cd-f60b-4867-aeaf-12cebead4d7a
 
+
+# homework 5
+![homework5](https://github.com/user-attachments/assets/218f3ad0-f494-4a75-8aa2-4461229ef2f2)
